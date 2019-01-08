@@ -16,7 +16,7 @@ class.
 Requesting timeframes, locations and the delivery date
 ------------------------------------------------------
 
-You can the timeframes, locations and delivery date at once to quickly retrieve all the available delivery options.
+You can request the timeframes, locations and delivery date at once to quickly retrieve all the available delivery options.
 Here's how it is done:
 
 .. code-block:: php
